@@ -1,0 +1,50 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+
+# Libraries and executables
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+a.out
+
+# Debug and profiling
+*.pdb
+*.ilk
+*.map
+core
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+dist/
+
+# Coverage
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# Editor/IDE files
+.vscode/
+.vs/
+.idea/
+*.swp
+*~
+*.tmp
+*.bak
+
+# Tags
+tags
+cscope.*
+
+# macOS
+.DS_Store
